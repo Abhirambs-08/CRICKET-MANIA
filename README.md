@@ -26,3 +26,10 @@ The Cricket Mania project aims to revolutionize fantasy cricket by providing use
  - ## Flowchart
    ![image](https://github.com/user-attachments/assets/69d1e927-4dc0-4d91-b923-e3ddf77beb11)
 
+ - ## Output
+![image](https://github.com/user-attachments/assets/d0272e7a-e86f-404f-9d28-0eeeaccc5649)
+
+![image](https://github.com/user-attachments/assets/df87f166-6662-4f97-ba67-2640583e0ea0)
+
+
+   
